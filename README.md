@@ -1,6 +1,6 @@
 # LeetCode_Problems
 
-- A documentatio about
+- A documentatio about the problems that I solved in LeetCode using kotlin as a Language
 <br>
 
 **<h3>Problem</h3>**
